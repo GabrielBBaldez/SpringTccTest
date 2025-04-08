@@ -31,7 +31,7 @@ Com base na análise de desempenho, esta implementação em Spring Boot se desta
 ## Projeto Comparativo em Quarkus
 
 Para uma comparação direta com esta implementação, consulte o projeto Spring Boot equivalente:
-- [QuarkusTccTest](https://github.com/GabrielBBaldez/QuarkusTccTest))
+- [QuarkusTccTest](https://github.com/GabrielBBaldez/QuarkusTccTest)
 
 ### Pré-requisitos
 - Java 17
